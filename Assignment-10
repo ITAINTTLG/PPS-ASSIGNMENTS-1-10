@@ -51,6 +51,5 @@ int main() {
         }
         startDay = k;
     }
-
     return 0;
 }

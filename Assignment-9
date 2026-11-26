@@ -34,5 +34,5 @@ int main() {
     fclose(source);
     fclose(target);
 
-    return 0;
+return 0;
 }
